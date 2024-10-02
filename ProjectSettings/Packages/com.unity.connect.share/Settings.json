@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/msiniukov/Downloads/Game_AvsZ 4/project2/Build_fin1;/Users/msiniukov/Downloads/Game_AvsZ 4/project2/Build_fin;/Users/msiniukov/Downloads/Game_AvsZ 4/project2/Build0003;/Users/msiniukov/Downloads/Game_AvsZ 4/project2/Build0001;/Users/msiniukov/Downloads/Game_AvsZ 4/project2/Build000;/Users/weinanzhou/Downloads/Game_AvsZ 3/project2/WebGL Builds;;;;\"}"
+            }
+        ]
+    }
+}
